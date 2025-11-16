@@ -1,4 +1,4 @@
-let api_key = "AIzaSyAMToSdAKIpg4jlE1O66f-E_mY4tf0JXvU"
+// I have removed api-key for privacy 
 
 import { GoogleGenAI } from "@google/genai";
 
